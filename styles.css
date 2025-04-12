@@ -1,17 +1,17 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 40px;
-    background-color: #f0f0f0;
-}
-h1 {
-    color: #333;
-    text-align: center;
-}
-ul {
-    list-style-type: square;
-    padding-left: 20px;
-}
-li {
-    margin: 10px 0;
-    font-size: 18px;
-}
+    body {
+        font-family: Arial, sans-serif;
+        margin: 40px;
+        background-color: #d92020;
+    }
+    h1 {
+        color: #333;
+        text-align: center;
+    }
+    ul {
+        list-style-type: square;
+        padding-left: 20px;
+    }
+    li {
+        margin: 10px 0;
+        font-size: 18px;
+    }
